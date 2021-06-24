@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rohanraj-9654/rohanraj-9654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rohan and have experience working in Software Development, Data Analysis and ML Model Building areas.
 
-Here are some ideas to get you started:
+I like to learn new technologies related to ✳️ Data Science and ✳️ Machine Learning and try to continuously hone my skills in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on projects and hackathons involving technologies like:
+
+⚡ Oracle SQL / MySQL / MS SQL Server                                                                                                              
+⚡ Python                                                                                                                                                
+⚡ Tableau                                                                                                                                             
+⚡ Advanced Excel                                                                                                                                                
+⚡ Cloud (AWS / GCP / Azure / Heroku)                                                                                                                        
+
+🌱 I’m currently learning Web Technologies, RestFul API and Flask & Django framework and NoSQL databases like MongoDB and Cassandra, and final project deployment to cloud.
+
+💬 How to reach me:
+
+   📫 **LinkedIN** - https://www.linkedin.com/in/rohan-raj-204848100/                                                  
+   📫 **Tableau** -  https://public.tableau.com/profile/rohan.raj4726#!/
