@@ -18,3 +18,4 @@ I work on projects and hackathons involving technologies like:
 
    📫 **LinkedIN** - https://www.linkedin.com/in/rohan-raj-204848100/                                                  
    📫 **Tableau** -  https://public.tableau.com/profile/rohan.raj4726#!/
+   📫 **Medium** -   https://itsmerohanraj.medium.com/
