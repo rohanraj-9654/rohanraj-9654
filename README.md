@@ -15,7 +15,6 @@ I work on projects and hackathons involving technologies like:
 🌱 I’m currently learning Web Technologies, RestFul API and Flask & Django framework and NoSQL databases like MongoDB and Cassandra, and final project deployment to cloud.
 
 💬 How to reach me:
-
-   📫 **LinkedIN** - https://www.linkedin.com/in/rohan-raj-204848100/                                                  
+                                              
    📫 **Tableau** -  https://public.tableau.com/profile/rohan.raj4726#!/                                                                                   
    📫 **Medium** -   https://itsmerohanraj.medium.com/
